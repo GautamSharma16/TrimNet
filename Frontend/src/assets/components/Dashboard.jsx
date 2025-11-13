@@ -87,7 +87,7 @@ return (
 <div className="container mx-auto px-6 py-4 flex justify-between items-center">
 <div className="flex items-center">
 <Logo />
-<span className="text-2xl font-bold text-white ml-2">TinyTrail</span>
+<span className="text-2xl font-bold text-white ml-2">TrimNet</span>
 </div>
 
 
@@ -614,7 +614,7 @@ fontFamily: 'Roboto, sans-serif'
 
 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: `2px solid ${THEME.ACCENT}`, paddingBottom: '10px', marginBottom: '20px' }}>
 <h1 style={{ fontWeight: 300, margin: 0 }}>
-TinyTrail Clicks Dashboard
+TrimNet Clicks Dashboard
 </h1>
 <button
 onClick={() => setIsModalOpen(true)}
